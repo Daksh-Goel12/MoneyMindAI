@@ -1,0 +1,8 @@
+{
+  "name": "moneymind-ai",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
