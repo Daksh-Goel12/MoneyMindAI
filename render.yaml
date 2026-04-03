@@ -13,7 +13,4 @@ services:
         value: https://your-frontend.vercel.app
       - key: PORT
         value: 3001
-    disk:
-      name: moneymind-data
-      mountPath: /opt/render/project/src/server/data
-      sizeGB: 1
+
